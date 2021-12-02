@@ -1,4 +1,4 @@
-name: contgen
+name: contig
 channels:
   - pytorch
   - conda-forge
