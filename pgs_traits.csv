@@ -1,0 +1,482 @@
+pgs_id,trait,index
+PGS000001,breast carcinoma,0
+PGS000002,estrogen-receptor positive breast cancer,1
+PGS000003,estrogen-receptor negative breast cancer,2
+PGS000010,coronary artery disease,3
+PGS000011,coronary artery disease,4
+PGS000012,coronary artery disease,5
+PGS000018,coronary artery disease,6
+PGS000020,type II diabetes mellitus,7
+PGS000021,type I diabetes mellitus,8
+PGS000022,type I diabetes mellitus,9
+PGS000023,type I diabetes mellitus,10
+PGS000024,type I diabetes mellitus,11
+PGS000025,Alzheimer's disease,12
+PGS000026,Alzheimer's disease,13
+PGS000028,breast carcinoma,14
+PGS000029,breast carcinoma,15
+PGS000030,prostate carcinoma,16
+PGS000031,type II diabetes mellitus,17
+PGS000032,type II diabetes mellitus,18
+PGS000033,type II diabetes mellitus,19
+PGS000034,body mass index,20
+PGS000035,atrial fibrillation,21
+PGS000036,type II diabetes mellitus,22
+PGS000037,asthma,23
+PGS000038,stroke,24
+PGS000039,"Ischemic stroke, stroke",25
+PGS000040,celiac disease,26
+PGS000041,celiac disease,27
+PGS000042,celiac disease,28
+PGS000043,venous thromboembolism,29
+PGS000044,prostate carcinoma,30
+PGS000045,breast carcinoma,31
+PGS000046,estrogen-receptor positive breast cancer,32
+PGS000047,estrogen-receptor negative breast cancer,33
+PGS000048,ovarian carcinoma,34
+PGS000049,prostate carcinoma,35
+PGS000050,breast carcinoma,36
+PGS000051,breast carcinoma,37
+PGS000052,breast carcinoma,38
+PGS000053,late-onset Alzheimers disease,39
+PGS000054,late-onset Alzheimers disease,40
+PGS000055,colorectal cancer,41
+PGS000056,Parkinson's disease,42
+PGS000057,coronary artery disease,43
+PGS000058,coronary artery disease,44
+PGS000059,coronary artery disease,45
+PGS000060,high density lipoprotein cholesterol measurement,46
+PGS000061,low density lipoprotein cholesterol measurement,47
+PGS000062,total cholesterol measurement,48
+PGS000063,triglyceride measurement,49
+PGS000064,high density lipoprotein cholesterol measurement,50
+PGS000065,low density lipoprotein cholesterol measurement,51
+PGS000066,triglyceride measurement,52
+PGS000067,prostate carcinoma,53
+PGS000068,ovarian carcinoma,54
+PGS000069,ovarian serous carcinoma,55
+PGS000070,lung adenocarcinoma,56
+PGS000071,bladder carcinoma,57
+PGS000074,colorectal cancer,58
+PGS000075,endometrial carcinoma,59
+PGS000076,renal cell carcinoma,60
+PGS000077,lymphoid leukemia,61
+PGS000078,lung carcinoma,62
+PGS000079,melanoma,63
+PGS000082,ovarian carcinoma,64
+PGS000083,pancreatic carcinoma,65
+PGS000086,"testicular carcinoma, Testicular Germ Cell Tumor",66
+PGS000087,thyroid carcinoma,67
+PGS000114,juvenile idiopathic arthritis,68
+PGS000115,low density lipoprotein cholesterol measurement,69
+PGS000116,coronary artery disease,70
+PGS000117,cardiovascular disease,71
+PGS000118,melanoma,72
+PGS000119,basal cell carcinoma,73
+PGS000120,squamous cell carcinoma,74
+PGS000121,bone density,75
+PGS000122,bone density,76
+PGS000123,Parkinson's disease,77
+PGS000124,intraocular pressure measurement,78
+PGS000125,type II diabetes mellitus,79
+PGS000126,urate measurement,80
+PGS000127,HbA1c measurement,81
+PGS000128,HbA1c measurement,82
+PGS000129,HbA1c measurement,83
+PGS000130,HbA1c measurement,84
+PGS000131,HbA1c measurement,85
+PGS000132,HbA1c measurement,86
+PGS000133,schizophrenia,87
+PGS000134,schizophrenia,88
+PGS000135,schizophrenia,89
+PGS000136,schizophrenia,90
+PGS000137,glaucoma,91
+PGS000138,major depressive disorder,92
+PGS000139,"major depressive disorder, recurrent",93
+PGS000140,"depressive disorder, seeing a general practitioner for nerves, anxiety, tension or depression, self-reported",94
+PGS000141,"depressive disorder, seeing a psychiatrist for nerves, anxiety, tension or depression, self-reported",95
+PGS000142,"depressive disorder, seeing a general practitioner for nerves, anxiety, tension or depression, self-reported, seeing a psychiatrist for nerves, anxiety, tension or depression, self-reported",96
+PGS000143,"seeing a general practitioner for nerves, anxiety, tension or depression, self-reported",97
+PGS000144,"depressive symptom measurement, self-reported trait",98
+PGS000145,major depressive disorder,99
+PGS000146,colorectal cancer,100
+PGS000147,colorectal cancer,101
+PGS000149,colorectal cancer,102
+PGS000150,colorectal cancer,103
+PGS000151,colorectal cancer,104
+PGS000152,bladder carcinoma,105
+PGS000153,breast carcinoma,106
+PGS000154,colorectal cancer,107
+PGS000155,glioma,108
+PGS000156,lung carcinoma,109
+PGS000157,melanoma,110
+PGS000158,ovarian carcinoma,111
+PGS000159,pancreatic carcinoma,112
+PGS000160,prostate carcinoma,113
+PGS000161,renal carcinoma,114
+PGS000162,thyroid carcinoma,115
+PGS000163,basophil count,116
+PGS000164,basophil percentage of leukocytes,117
+PGS000165,eosinophil count,118
+PGS000166,eosinophil percentage of leukocytes,119
+PGS000167,hematocrit,120
+PGS000168,hemoglobin measurement,121
+PGS000169,reticulocyte count,122
+PGS000170,reticulocyte count,123
+PGS000171,reticulocyte count,124
+PGS000172,lymphocyte count,125
+PGS000173,lymphocyte percentage of leukocytes,126
+PGS000174,mean corpuscular hemoglobin,127
+PGS000175,mean corpuscular hemoglobin concentration,128
+PGS000176,mean corpuscular volume,129
+PGS000177,monocyte count,130
+PGS000179,mean platelet volume,131
+PGS000180,mean reticulocyte volume,132
+PGS000182,neutrophil count,133
+PGS000183,neutrophil percentage of leukocytes,134
+PGS000184,platelet crit,135
+PGS000185,platelet component distribution width,136
+PGS000186,platelet count,137
+PGS000187,erythrocyte count,138
+PGS000188,red blood cell distribution width,139
+PGS000189,reticulocyte count,140
+PGS000190,reticulocyte count,141
+PGS000191,leukocyte count,142
+PGS000192,"high density lipoprotein cholesterol measurement, low density lipoprotein cholesterol measurement",143
+PGS000193,major depressive disorder,144
+PGS000199,gout,145
+PGS000200,coronary artery disease,146
+PGS000201,alcohol dependence measurement,147
+PGS000202,alcohol dependence measurement,148
+PGS000203,alcohol consumption measurement,149
+PGS000204,alcohol consumption measurement,150
+PGS000205,risk-taking behaviour,151
+PGS000206,risk-taking behaviour,152
+PGS000207,thyroid carcinoma,153
+PGS000208,thyroid carcinoma,154
+PGS000209,thyroid carcinoma,155
+PGS000210,FEV/FEC ratio,156
+PGS000211,Parkinson's disease,157
+PGS000212,luminal A breast carcinoma,158
+PGS000213,Her2-receptor negative breast cancer,159
+PGS000214,luminal B breast carcinoma,160
+PGS000215,HER2 Positive Breast Carcinoma,161
+PGS000216,triple-negative breast cancer,162
+PGS000217,blood protein measurement,163
+PGS000218,blood protein measurement,164
+PGS000219,blood protein measurement,165
+PGS000220,blood protein measurement,166
+PGS000221,blood protein measurement,167
+PGS000222,blood protein measurement,168
+PGS000223,blood protein measurement,169
+PGS000224,blood protein measurement,170
+PGS000225,blood protein measurement,171
+PGS000226,blood protein measurement,172
+PGS000227,blood protein measurement,173
+PGS000228,blood protein measurement,174
+PGS000229,blood protein measurement,175
+PGS000230,blood protein measurement,176
+PGS000231,blood protein measurement,177
+PGS000232,blood protein measurement,178
+PGS000233,blood protein measurement,179
+PGS000234,blood protein measurement,180
+PGS000235,blood protein measurement,181
+PGS000236,blood protein measurement,182
+PGS000237,blood protein measurement,183
+PGS000238,blood protein measurement,184
+PGS000239,blood protein measurement,185
+PGS000240,blood protein measurement,186
+PGS000241,blood protein measurement,187
+PGS000242,blood protein measurement,188
+PGS000243,blood protein measurement,189
+PGS000244,blood protein measurement,190
+PGS000245,blood protein measurement,191
+PGS000246,blood protein measurement,192
+PGS000247,blood protein measurement,193
+PGS000248,blood protein measurement,194
+PGS000249,blood protein measurement,195
+PGS000250,blood protein measurement,196
+PGS000251,blood protein measurement,197
+PGS000252,blood protein measurement,198
+PGS000253,blood protein measurement,199
+PGS000254,blood protein measurement,200
+PGS000255,blood protein measurement,201
+PGS000256,blood protein measurement,202
+PGS000257,blood protein measurement,203
+PGS000258,blood protein measurement,204
+PGS000259,blood protein measurement,205
+PGS000260,blood protein measurement,206
+PGS000261,blood protein measurement,207
+PGS000262,blood protein measurement,208
+PGS000263,blood protein measurement,209
+PGS000264,blood protein measurement,210
+PGS000265,blood protein measurement,211
+PGS000266,blood protein measurement,212
+PGS000267,blood protein measurement,213
+PGS000268,blood protein measurement,214
+PGS000269,blood protein measurement,215
+PGS000270,blood protein measurement,216
+PGS000271,blood protein measurement,217
+PGS000272,blood protein measurement,218
+PGS000273,blood protein measurement,219
+PGS000274,blood protein measurement,220
+PGS000275,blood protein measurement,221
+PGS000276,blood protein measurement,222
+PGS000277,blood protein measurement,223
+PGS000278,blood protein measurement,224
+PGS000279,blood protein measurement,225
+PGS000280,blood protein measurement,226
+PGS000281,blood protein measurement,227
+PGS000282,blood protein measurement,228
+PGS000283,blood protein measurement,229
+PGS000284,blood protein measurement,230
+PGS000285,blood protein measurement,231
+PGS000286,blood protein measurement,232
+PGS000287,blood protein measurement,233
+PGS000288,blood protein measurement,234
+PGS000289,blood protein measurement,235
+PGS000290,blood protein measurement,236
+PGS000291,blood protein measurement,237
+PGS000292,blood protein measurement,238
+PGS000293,blood protein measurement,239
+PGS000294,blood protein measurement,240
+PGS000295,blood protein measurement,241
+PGS000297,body height,242
+PGS000298,body mass index,243
+PGS000299,BMI-adjusted waist-hip ratio,244
+PGS000300,resting heart rate,245
+PGS000301,systolic blood pressure,246
+PGS000302,diastolic blood pressure,247
+PGS000303,glomerular filtration rate,248
+PGS000304,HbA1c measurement,249
+PGS000305,fasting blood glucose measurement,250
+PGS000306,BMI-adjusted fasting blood glucose measurement,251
+PGS000307,fasting blood insulin measurement,252
+PGS000308,BMI-adjusted fasting blood insulin measurement,253
+PGS000309,high density lipoprotein cholesterol measurement,254
+PGS000310,low density lipoprotein cholesterol measurement,255
+PGS000311,total cholesterol measurement,256
+PGS000312,triglyceride measurement,257
+PGS000313,lipoprotein A measurement,258
+PGS000314,C-reactive protein measurement,259
+PGS000315,serum IgE measurement,260
+PGS000316,celiac disease,261
+PGS000317,breast carcinoma,262
+PGS000321,testosterone measurement,263
+PGS000322,"female, testosterone measurement",264
+PGS000323,"male, testosterone measurement",265
+PGS000324,enthesitis-related juvenile idiopathic arthritis,266
+PGS000325,oligoarticular juvenile idiopathic arthritis,267
+PGS000326,"polyarticular juvenile idiopathic arthritis, rheumatoid factor negative",268
+PGS000327,autism spectrum disorder,269
+PGS000328,systemic lupus erythematosus,270
+PGS000329,coronary artery disease,271
+PGS000330,type II diabetes mellitus,272
+PGS000331,atrial fibrillation,273
+PGS000332,breast carcinoma,274
+PGS000333,prostate carcinoma,275
+PGS000334,late-onset Alzheimers disease,276
+PGS000335,breast carcinoma,277
+PGS000336,chronotype measurement,278
+PGS000338,atrial fibrillation,279
+PGS000339,cutaneous melanoma,280
+PGS000340,low density lipoprotein cholesterol measurement,281
+PGS000341,systemic scleroderma,282
+PGS000342,psoriatic arthritis,283
+PGS000344,breast carcinoma,284
+PGS000345,breast carcinoma,285
+PGS000346,estrogen-receptor negative breast cancer,286
+PGS000347,estrogen-receptor positive breast cancer,287
+PGS000348,prostate carcinoma,288
+PGS000349,coronary artery disease,289
+PGS000350,open-angle glaucoma,290
+PGS000351,ovarian carcinoma,291
+PGS000352,high grade ovarian serous adenocarcinoma,292
+PGS000655,non-alcoholic fatty liver disease,293
+PGS000656,non-alcoholic fatty liver disease severity measurement,294
+PGS000658,total cholesterol measurement,295
+PGS000659,triglyceride measurement,296
+PGS000660,high density lipoprotein cholesterol measurement,297
+PGS000661,low density lipoprotein cholesterol measurement,298
+PGS000662,prostate carcinoma,299
+PGS000663,pancreatic carcinoma,300
+PGS000664,GFR change measurement,301
+PGS000665,"Ischemic stroke, stroke",302
+PGS000666,left ventricular systolic function measurement,303
+PGS000667,lipoprotein A measurement,304
+PGS000668,serum alanine aminotransferase measurement,305
+PGS000669,serum albumin measurement,306
+PGS000670,alkaline phosphatase measurement,307
+PGS000671,apolipoprotein A 1 measurement,308
+PGS000672,apolipoprotein B measurement,309
+PGS000673,aspartate aminotransferase measurement,310
+PGS000674,aspartate aminotransferase to alanine aminotransferase ratio,311
+PGS000675,C-reactive protein measurement,312
+PGS000676,calcium measurement,313
+PGS000677,total cholesterol measurement,314
+PGS000678,creatinine measurement,315
+PGS000679,creatinine clearance measurement,316
+PGS000680,cystatin C measurement,317
+PGS000681,bilirubin measurement,318
+PGS000682,glomerular filtration rate,319
+PGS000683,serum gamma-glutamyl transferase measurement,320
+PGS000684,glucose measurement,321
+PGS000685,HbA1c measurement,322
+PGS000686,high density lipoprotein cholesterol measurement,323
+PGS000687,IGF-1 measurement,324
+PGS000688,low density lipoprotein cholesterol measurement,325
+PGS000689,lipoprotein A measurement,326
+PGS000690,urinary microalbumin measurement,327
+PGS000691,serum non-albumin protein measurement,328
+PGS000692,phosphate measurement,329
+PGS000693,urinary potassium measurement,330
+PGS000694,sex hormone-binding globulin measurement,331
+PGS000695,"sodium measurement, urinary metabolite measurement",332
+PGS000696,testosterone measurement,333
+PGS000697,bilirubin measurement,334
+PGS000698,total blood protein measurement,335
+PGS000699,triglyceride measurement,336
+PGS000700,urate measurement,337
+PGS000701,serum urea measurement,338
+PGS000702,vitamin D measurement,339
+PGS000703,angina pectoris,340
+PGS000704,alcoholic liver cirrhosis,341
+PGS000705,gallstones,342
+PGS000706,hypertension,343
+PGS000707,Cholecystitis,344
+PGS000708,kidney failure,345
+PGS000709,heart failure,346
+PGS000710,myocardial infarction,347
+PGS000711,gout,348
+PGS000712,type II diabetes mellitus,349
+PGS000713,type II diabetes mellitus,350
+PGS000714,prostate carcinoma,351
+PGS000716,"body mass index, comparative body size at age 10, self-reported",352
+PGS000717,body mass index,353
+PGS000718,response to beta blocker,354
+PGS000719,prostate carcinoma,355
+PGS000720,colorectal cancer,356
+PGS000721,lung carcinoma,357
+PGS000722,renal carcinoma,358
+PGS000723,bladder carcinoma,359
+PGS000724,ovarian carcinoma,360
+PGS000725,pancreatic carcinoma,361
+PGS000726,cirrhosis of liver,362
+PGS000727,atrial fibrillation,363
+PGS000728,chronic kidney disease,364
+PGS000729,type II diabetes mellitus,365
+PGS000730,basal cell carcinoma,366
+PGS000731,squamous cell carcinoma,367
+PGS000732,melanoma,368
+PGS000733,prostate carcinoma,369
+PGS000734,colorectal cancer,370
+PGS000735,PR interval,371
+PGS000736,QRS duration,372
+PGS000737,Brugada syndrome,373
+PGS000738,Vitiligo,374
+PGS000739,hypertrophic cardiomyopathy,375
+PGS000740,lung carcinoma,376
+PGS000741,prostate carcinoma,377
+PGS000742,prostate carcinoma,378
+PGS000743,melanoma,379
+PGS000744,melanoma,380
+PGS000745,melanoma,381
+PGS000751,prostate carcinoma,382
+PGS000753,Abdominal Aortic Aneurysm,383
+PGS000754,systemic lupus erythematosus,384
+PGS000755,uric acid measurement,385
+PGS000756,narcolepsy with cataplexy,386
+PGS000757,narcolepsy with cataplexy,387
+PGS000758,body height,388
+PGS000759,hypothyroidism,389
+PGS000760,Vitiligo,390
+PGS000761,hypothyroidism,391
+PGS000764,open-angle glaucoma,392
+PGS000765,colorectal cancer,393
+PGS000766,cutaneous melanoma,394
+PGS000768,QT interval,395
+PGS000769,response to bronchodilator,396
+PGS000771,systemic lupus erythematosus,397
+PGS000773,breast carcinoma,398
+PGS000774,estrogen-receptor positive breast cancer,399
+PGS000775,estrogen-receptor negative breast cancer,400
+PGS000777,"cognitive decline measurement, Parkinson's disease",401
+PGS000778,hypertrophic cardiomyopathy,402
+PGS000779,Alzheimer's disease,403
+PGS000780,allergy,404
+PGS000781,"brain neoplasm, glioma",405
+PGS000782,bladder carcinoma,406
+PGS000785,colorectal cancer,407
+PGS000786,endometrial carcinoma,408
+PGS000787,renal cell carcinoma,409
+PGS000788,lymphoid leukemia,410
+PGS000789,lung carcinoma,411
+PGS000790,melanoma,412
+PGS000793,ovarian carcinoma,413
+PGS000794,pancreatic carcinoma,414
+PGS000796,"testicular carcinoma, Testicular Germ Cell Tumor",415
+PGS000797,thyroid carcinoma,416
+PGS000798,coronary artery disease,417
+PGS000799,asthma,418
+PGS000800,allergy,419
+PGS000801,colorectal cancer,420
+PGS000802,colorectal cancer,421
+PGS000803,systemic lupus erythematosus,422
+PGS000804,type II diabetes mellitus,423
+PGS000805,type II diabetes mellitus,424
+PGS000806,type II diabetes mellitus,425
+PGS000807,type II diabetes mellitus,426
+PGS000808,type II diabetes mellitus,427
+PGS000809,multiple sclerosis,428
+PGS000810,allergy,429
+PGS000811,Alzheimer's disease,430
+PGS000812,Alzheimer's disease,431
+PGS000813,melanoma,432
+PGS000814,low density lipoprotein cholesterol measurement,433
+PGS000815,alkaline phosphatase measurement,434
+PGS000816,serum alanine aminotransferase measurement,435
+PGS000817,serum gamma-glutamyl transferase measurement,436
+PGS000818,coronary artery disease,437
+PGS000819,diabetic retinopathy,438
+PGS000820,hypothyroidism,439
+PGS000821,Thyroid preparation use measurement,440
+PGS000822,urinary albumin to creatinine ratio,441
+PGS000823,Alzheimer's disease,442
+PGS000824,low density lipoprotein cholesterol measurement,443
+PGS000825,high density lipoprotein cholesterol measurement,444
+PGS000826,triglyceride measurement,445
+PGS000827,"male, waist circumference",446
+PGS000828,"female, waist circumference",447
+PGS000829,"body mass index, male",448
+PGS000830,"body mass index, female",449
+PGS000831,total cholesterol measurement,450
+PGS000865,liver fat measurement,451
+PGS000866,liver fat measurement,452
+PGS000867,allergy,453
+PGS000868,type II diabetes mellitus,454
+PGS000869,type I diabetes mellitus,455
+PGS000870,complication,456
+PGS000871,insulin secretion measurement,457
+PGS000872,non-alcoholic fatty liver disease,458
+PGS000873,breast carcinoma,459
+PGS000874,chronic lymphocytic leukemia,460
+PGS000875,low density lipoprotein cholesterol measurement,461
+PGS000876,Alzheimer's disease,462
+PGS000877,insulin resistance,463
+PGS000878,prostate carcinoma,464
+PGS000879,intraocular pressure measurement,465
+PGS000880,lung carcinoma,466
+PGS000881,prostate carcinoma,467
+PGS000882,vitamin D measurement,468
+PGS000883,glomerular filtration rate,469
+PGS000884,glomerular filtration rate,470
+PGS000885,glomerular filtration rate,471
+PGS000902,Parkinson's disease,472
+PGS000903,Parkinson's disease,473
+PGS000906,longevity,474
+PGS000907,major depressive disorder,475
+PGS000908,insomnia,476
+PGS000909,Headache,477
+PGS000910,body mass index,478
+PGS000914,Abnormal EKG,479
+PGS000915,asthma,480

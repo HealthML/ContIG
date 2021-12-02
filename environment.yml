@@ -1,0 +1,27 @@
+name: contgen
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.5
+  - pip=21.1.2
+  - cudatoolkit=10.2
+  - notebook
+  - matplotlib
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
+  - scikit-learn
+  - seaborn
+  - captum
+  - pip:
+    - pysnptools
+    - lightly
+    - wandb
+    - opencv-python
+    - scikit-image
+    - qmplot
+    - toml
+

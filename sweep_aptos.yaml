@@ -1,0 +1,14 @@
+program: sweep_aptos.py
+method: grid
+metric:
+    goal: maximize
+    name: valid_score_kappa_aptos
+parameters:
+    batch_size:
+        values: [32, 64, 128, 256, 512]
+    epochs:
+        values: [25, 50, 75]
+    lr:
+        values: [0.0001, 0.001, 0.01]
+    weight_decay:
+        values: [1e-4, 1e-5, 1e-6, 1e-7]

@@ -1,0 +1,40 @@
+### paths to downstream dsets:
+APTOS_PATH = "/PATH/TO/APTOS/"
+PALM_PATH = "/PATH/TO/PALM/PALM-Training400/"
+RFMID_PATH = "/PATH/TO/RFMiD/"
+
+### model paths
+
+CHECKPOINTS_BASE_PATH = "checkpoints/"
+
+
+### software
+
+# should point to the executables
+PLINK1 = "/PATH/TO/plink/plink"
+PLINK2 = "/PATH/TO/plink2/plink2"
+
+### UKB paths
+
+# phenotype file provided as is from UKB
+UKB_PHENO_FILE = "/PATH/TO/ukbXXXXXX_full.csv"
+# can be kept as is - will be created automatically
+PATH_TO_COV = 'data/covariates_card.csv'
+
+# BASE_IMG + {LEFT|RIGHT}_SUBDIR should contain all available fundus images after preprocessing
+BASE_IMG = "/PATH/TO/retinal_fundus/"
+LEFT_SUBDIR = "left/512_left/processed/"
+RIGHT_SUBDIR = "right/512_right/processed/"
+
+# path to bed files. directory should contain the `ukb_chr{1..22}_v2.{bed|fam|bim} files
+BASE_GEN = "/PATH/TO/microarray/"
+
+ANCESTRY = "/PATH/TO/UKBB.w_hm3.AllAncestry.model_pred"
+BASE_PGS = "/PATH/TO/precomputed_pgs/"
+
+# directory for preprocessed burden data
+# contains the files: combined_burdens_colnames.txt, combined_burdens_iid.txt, combined_burdens.h5
+BASE_BURDEN = "PATH/TO/burdens/"
+
+# ignore this! Processed biomarkers; not used in the experiments
+BLOOD_BIOMARKERS = ""
