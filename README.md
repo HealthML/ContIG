@@ -4,13 +4,11 @@ This is the code implementation of the paper "ContIG: Self-supervised Multimodal
 
 If you find this repository useful, please consider citing our paper in your work:
 ```
-@misc{contig2021,
+@inproceedings{contig2022,
       title={ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics}, 
       author={Aiham Taleb and Matthias Kirchler and Remo Monti and Christoph Lippert},
-      year={2021},
-      eprint={2111.13424},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      year={2022},
+      booktitle = {Proceedings of the IEEE conference on computer vision and pattern Recognition (CVPR)},
 }
 ```
 
