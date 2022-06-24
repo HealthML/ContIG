@@ -5,11 +5,13 @@ Click [here](https://openaccess.thecvf.com/content/CVPR2022/html/Taleb_ContIG_Se
 
 If you find this repository useful, please consider citing our paper in your work:
 ```
-@inproceedings{contig2022,
-      title={ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics}, 
-      author={Aiham Taleb and Matthias Kirchler and Remo Monti and Christoph Lippert},
-      year={2022},
-      booktitle = {Proceedings of the IEEE conference on computer vision and pattern Recognition (CVPR)},
+@InProceedings{Taleb_2022_CVPR,
+    author    = {Taleb, Aiham and Kirchler, Matthias and Monti, Remo and Lippert, Christoph},
+    title     = {ContIG: Self-Supervised Multimodal Contrastive Learning for Medical Imaging With Genetics},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {20908-20921}
 }
 ```
 
