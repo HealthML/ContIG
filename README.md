@@ -1,6 +1,7 @@
 # ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics
 
 This is the code implementation of the paper "ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics". 
+Click [here](https://openaccess.thecvf.com/content/CVPR2022/html/Taleb_ContIG_Self-Supervised_Multimodal_Contrastive_Learning_for_Medical_Imaging_With_Genetics_CVPR_2022_paper.html) to view the paper.
 
 If you find this repository useful, please consider citing our paper in your work:
 ```
