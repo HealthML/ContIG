@@ -143,6 +143,15 @@ class UKBRetina(Dataset):
         cov_fillna,
     ):
         cov = pd.read_csv(PATH_TO_COV, index_col=0)
+        
+        iid_not_avail = np.setdiff1d(self.iids, cov.index.values)
+        
+        if len(iid_not_avail) > 0:
+            print('{} iids were dropped because they were missing in the covariate data'.format(len(iid_not_avail)))
+            iid_idx = ~np.isin(self.iids, iid_not_avail)
+            self.iids = self.iids[iid_idx]
+            self.paths = self.paths[iid_idx]
+            
         self.cov = cov.loc[self.iids]
         cols = self.cov.columns.tolist()
         df_sex_smoking = self.cov[["sex", "smoking"]].copy()
@@ -681,6 +690,7 @@ def get_genetics_imaging_data(
     include_biomarkers=False,
     biomarkers_filter_nan_cols=0.2,
     biomarkers_filter_nan_rows=1.0,
+    augment=True
 ):
     """load imaging with either raw genetic or with burden data
 
@@ -704,7 +714,7 @@ def get_genetics_imaging_data(
     )
     loaders = []
     for iids, mode in [(t_iids, "train"), (v_iids, "valid"), (tt_iids, "test")]:
-        tfms = get_tfms(size=size, augmentation=mode == "train", setting=tfms_settings)
+        tfms = get_tfms(size=size, augmentation=(mode == "train") and augment, setting=tfms_settings)
         if burdens_zeros is None:
             dsets = [
                 UKBRetinaGen(
@@ -1086,7 +1096,12 @@ def export_card():
     df = pd.read_csv(PHENO, usecols=COVAR + GENET_PCS)
     iids = get_indiv()
     df["iid"] = df["eid"]
-    df.index = df.iid
+    df.set_index('iid',drop=False, inplace=True)
+
+    iids = np.intersect1d(iids, df.index.values)
+    
+    assert len(iids), 'Error: unable to match iids for covariate data'
+    
     df = df.loc[iids]
 
     df["SBP"] = df[["4080-0.0", "4080-0.1"]].mean(1)

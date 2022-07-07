@@ -1,0 +1,27 @@
+name: contig_cuda11.6
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.5
+  - pip=21.1.2
+  - cudatoolkit=11.6
+  - notebook
+  - matplotlib
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
+  - scikit-learn
+  - seaborn
+  - captum
+  - tqdm
+  - pip:
+    - pysnptools
+    - lightly
+    - wandb
+    - opencv-python
+    - scikit-image
+    - qmplot
+    - toml
